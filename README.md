@@ -35,4 +35,4 @@ For more detailed contribution guidelines, please check our [CONTRIBUTING.md](pa
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE.md](path_to_license.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
